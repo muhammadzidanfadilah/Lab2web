@@ -71,7 +71,7 @@ Hasil nya seperti ini pada uji coba nya
 
 2. h1 {...}itu memberikan sebuah elemen atau style secara menyeluruh.
 
-#intro h1 {...} hanya memberikan sebuah style atau elemen yang ada dalam cakupan intro itu sendiri.
+   intro h1 {...} hanya memberikan sebuah style atau elemen yang ada dalam cakupan intro itu sendiri.
 
 3. Deklarasi css internal tag <style>
 
