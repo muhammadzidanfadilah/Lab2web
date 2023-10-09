@@ -83,8 +83,5 @@ Inline CSS
 
 4. ID adalah kebalikan atau hasil sebaliknya dari selector class yang dimana ID hanya bisa di gunakan pada satu halaman saja namun selector class dapat di gunakan di setiap halaman
 
-![gambar1](WEB-GAMBAR/WEBB15.png)
+![gambar1](WEB-GAMBAR/WEBB19.png)
 
-![gambar1](WEB-GAMBAR/WEBB18.png)
-
-![gambar1](WEB-GAMBAR/WEBB16.png)
