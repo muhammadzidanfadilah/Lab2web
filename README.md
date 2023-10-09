@@ -85,5 +85,6 @@ Inline CSS
 
 ![gambar1](WEB-GAMBAR/WEBB15.png)
 
+![gambar1](WEB-GAMBAR/WEBB18.png)
 
 ![gambar1](WEB-GAMBAR/WEBB16.png)
